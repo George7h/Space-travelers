@@ -1,0 +1,19 @@
+.summary {
+  display: flex;
+  justify-content: center;
+}
+
+.joined-missions-rockets {
+  margin-right: 2rem;
+}
+
+.sortedlist {
+  list-style: none;
+  padding: 0;
+}
+
+.sortedlist li {
+  border: 1px solid lightgrey;
+  padding: 10px;
+  margin-right: auto;
+}
